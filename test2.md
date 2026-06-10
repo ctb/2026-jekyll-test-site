@@ -1,3 +1,8 @@
+---
+title: Test3
+layout: home
+---
+
 # Test 3
 
 foo!
