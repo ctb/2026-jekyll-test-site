@@ -1,3 +1,8 @@
+---
+title: Test1
+layout: home
+---
+
 # Test 1
 
 content!
