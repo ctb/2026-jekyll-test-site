@@ -9,6 +9,6 @@ content!
 
 ## what happens to subheadings?
 
-also, [links](index.md)
+also, [links](index.html)
 
 # Test 2

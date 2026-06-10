@@ -7,4 +7,4 @@ layout: home
 
 foo!
 
-[xyz](test1.md)
+[xyz](test1.html)
